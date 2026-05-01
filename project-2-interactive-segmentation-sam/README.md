@@ -35,6 +35,9 @@ Users guide segmentation with foreground and background points (via sliders/butt
 
 📸 Results
 
+<img width="449" height="541" alt="2e59047a5f320a848fcb318ea83ef4b8" src="https://github.com/user-attachments/assets/4d3853cf-b802-496c-84ba-f734ed1bb08e" />
+
+
 <img width="570" height="785" alt="12b73269c1ab8614e6d66fe95fb3d54a" src="https://github.com/user-attachments/assets/d118a328-59ea-4833-b9cd-a88212f9bcb5" />
 
 <img width="680" height="790" alt="76c22d5e3f56246a72bf6157ef32b0fc" src="https://github.com/user-attachments/assets/2ff85ba3-54de-4490-8a39-6418e4e70bea" />
