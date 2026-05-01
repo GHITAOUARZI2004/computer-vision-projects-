@@ -46,6 +46,6 @@ project-2-interactive-segmentation-sam/
 
 
 
-##  Author
+## ⋆｡‧˚ʚ🍓ɞ˚‧｡⋆ Author⋆｡‧˚ʚ🍓ɞ˚‧｡⋆
 
 ghita ouarzi
