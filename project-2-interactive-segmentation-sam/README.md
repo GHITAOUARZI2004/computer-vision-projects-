@@ -33,6 +33,8 @@ Users guide segmentation with foreground and background points (via sliders/butt
 5. Switch mode (Foreground / Background) to refine
 6. Click **Save Result**
 
+📸 Results
+<img width="736" height="1308" alt="77aec4f553aee5eefb7f531ecc2feb6d" src="https://github.com/user-attachments/assets/71fdfb7d-443e-4ecd-9a92-e5542881b62e" />
 
 
 ## 📂 Structure
